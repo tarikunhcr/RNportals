@@ -14,6 +14,7 @@ register(
 const helloPortal = {
   // A unique name to reference later
   name: 'shopwebapp',
+
   // This is the location of your web bundle relative to the asset directory in Android and Bundle.main in iOS
   // This will default to the name of the portal
   startDir: 'portals/shopwebapp',
